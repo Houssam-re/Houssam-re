@@ -18,6 +18,7 @@
 - 💬 Let's connect and geek out about web tech and security. Looking forward to engaging discussions and fruitful collaborations! 🚀😊
 ### My Absolute Favorites:
 💻   I love exploring new tech stack and building cool stuffs.
+
 🍕   Hackathons, meetups & tech events.
 ### Connect with Me :
 
