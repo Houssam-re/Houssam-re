@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=First-Year%20CS%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 Hello, I'm a first-year CS student with an unyielding passion for web technologies, backend development, and penetration testing.
+- 👨‍💻 Hello, I'm a second-year CS student with an unyielding passion for web technologies, backend development, and penetration testing.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: Coding captivates me so much that I forget to eat! 🍕👩‍💻.
 - 👨‍💻  I'm particularly excited about delving deeper into the world of C++. While I have limited experience with it, I'm eager to learn and grow my expertise in this powerful language! 
